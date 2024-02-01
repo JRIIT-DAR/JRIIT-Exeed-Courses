@@ -8,4 +8,4 @@
 
 2. Introduction to Data Science
 ![Data Science Cisco](Data Science Cisco.jpg)
-[Click on Link to Regsiter]([https://www.example.com](https://skillsforall.com/course/introduction-data-science?courseLang=en-US&instance_id=61f18b95-945c-45d0-87e5-0d47bd241059)https://skillsforall.com/course/introduction-data-science?courseLang=en-US&instance_id=61f18b95-945c-45d0-87e5-0d47bd241059)
+[Click on Link to Regsiter](https://skillsforall.com/course/introduction-data-science?courseLang=en-US&instance_id=61f18b95-945c-45d0-87e5-0d47bd241059)
