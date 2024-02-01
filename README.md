@@ -1,6 +1,5 @@
-List of Courses offered with prices mentioned.
-Please note the the price mentioned is full price, 20% scholarship will be applied the amount.
-Live Interactive Classes with Experts
+# Punjani-Scholarship
+**Punjani Charitable Trust (Tanzania)** is offering a **20% scholarship** on the following Live Interactive Classes with Experts. Please note that the prices mentioned are the full prices, and the scholarship will be applied to the final amount.
 ![List1](1.jpg)
 ![List2](2.jpg)
 ![List3](3.jpg)
